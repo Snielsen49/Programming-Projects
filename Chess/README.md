@@ -43,3 +43,8 @@ the IDE used is VS code
 * [chat GPT](https://chat.openai.com)
 * [youtube](https://www.youtube.com)
 
+# Future Work
+
+1: Add pawn promotion
+2: Add castling
+
