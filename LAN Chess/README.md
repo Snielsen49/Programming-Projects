@@ -14,17 +14,15 @@ it uses ports 5555 and 4092
 When the client first connects it receives a pickled string of the color it will have for the game. (white or black) then it will receive and send the game_state dictionary that looks like this:
 
 game_state = 
-    'turnstep': 0, #player turn 
-    'white_pieces':['rook','knight','bishop','king','queen','bishop','knight','rook',
-                    'pawn','pawn','pawn','pawn','pawn','pawn','pawn','pawn'],
-    'black_pieces': ['rook','knight','bishop','king','queen','bishop','knight','rook',
-                    'pawn','pawn','pawn','pawn','pawn','pawn','pawn','pawn'],
-    'white_loc': [],
-    'black_loc': [], 
-    'captured_pieces_wht': [],
-    'captured_pieces_blk': [], 
-    'winner': None,
-    'turn_color': 'white'
+turnstep = 0  
+white_pieces:['rook','knight','bishop','king','queen','bishop','knight','rook','pawn','pawn','pawn','pawn','pawn','pawn','pawn','pawn'],
+black_pieces': ['rook','knight','bishop','king','queen','bishop','knight','rook','pawn','pawn','pawn','pawn','pawn','pawn','pawn','pawn'],
+white_loc: [],
+black_loc: [],
+captured_pieces_wht: [],
+captured_pieces_blk: [], 
+winner: None,
+turn_color: 'white'
 
 # Development Environment
 
