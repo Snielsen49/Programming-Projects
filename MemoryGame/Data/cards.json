@@ -1,0 +1,48 @@
+[
+    {
+        "image": "Pics/Anakin.png",
+        "name": "Anakin"
+        
+    },
+    {
+        "image": "Pics/Boba_Fett.png",
+        "name": "Boba_Fett"
+
+    },
+    {
+        "image": "Pics/Darth_Vader.png",
+        "name": "Darth_Vader"
+
+    },
+    {
+        "image": "Pics/Guard.png",
+        "name": "Guard"
+
+    },
+    {
+        "image": "Pics/Jawa.png",
+        "name": "Jawa"
+
+
+    },
+    {
+        "image": "Pics/Luke.png",
+        "name": "Luke"
+
+    },
+    {
+        "image": "Pics/Obi_Wan.png",
+        "name": "Obi_Wan"
+
+    },
+    {
+        "image": "Pics/Storm_trooper.png",
+        "name": "Storm_trooper"
+
+    },
+    {
+        "image": "Pics/Yoda.png",
+        "name": "Yoda"
+
+    }
+]
